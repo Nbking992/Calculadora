@@ -11,6 +11,6 @@ class ToDo : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityToDoBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        
+
     }
 }
